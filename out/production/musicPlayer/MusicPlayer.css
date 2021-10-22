@@ -1,0 +1,9 @@
+.root {
+    -fx-background-color: #141414;
+    -fx-background-radius: 5;
+}
+
+.mainPane {
+    -fx-background-color: #262525;
+    -fx-background-radius: 5 5 25 25;
+}
